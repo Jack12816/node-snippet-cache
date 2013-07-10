@@ -1,0 +1,15 @@
+{
+    "name"         : "cache-test",
+    "description"  : "Simple 1GB RAM cache test",
+    "version"      : "0.1.0",
+    "private"      : false,
+    "contributors" : [
+        {
+            "name"  : "Hermann Mayer",
+            "email" : "hermann.mayer92@gmail.com"
+        }
+    ],
+    "dependencies" : {
+        "memory-cache" : "~0.0.5"
+    }
+}
